@@ -15,3 +15,6 @@ Install Node.js and npm by following this [guide](https://www.npmjs.com/get-npm)
 
 ## build
 `gulp build`
+
+## deploy
+pull content of folder 'dist' to root -> index.html is served automatically
